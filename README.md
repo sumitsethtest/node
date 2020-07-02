@@ -604,7 +604,7 @@ Other keys used to sign some previous releases:
 `FD3A5288F042B6850C66B31F09FE44734EB7990E`
 * **Julien Gilli** &lt;jgilli@fastmail.fm&gt;
 `114F43EE0176B71C7BC219DD50A3051F888C628D`
-* **Timothy J Fontaine** &lt;tjfontaine@gmail.com&gt;
+* **Timothy J Fontaine** &lt;tjfontaine@gmail.com&gt; 
 `7937DFD2AB06298B2293C3187D33FF9D0246406D`
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
